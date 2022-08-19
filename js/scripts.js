@@ -7,7 +7,7 @@ function pickNumber(){
 
   if(friendsNumber >= 1 && friendsNumber <=50){
 
-  listNum();
+  listNum(friendsNumber);
 
   }else if (friendsNumber < 1){
     alert("That number is to low friend... lets try to be more managable");
@@ -26,12 +26,14 @@ function pickNumber(){
 	}
 }
 
-function listNum(){
+function listNum(friendsNumber){
 
-  for (int i = 1; i <= friendsNumber; i++) {
-    System.out.println(i);
+    for (let i = 1; i <= friendsNumber; i++) {
+      document.write(i);
   }
-}
+  }
+
+
 
 
 
