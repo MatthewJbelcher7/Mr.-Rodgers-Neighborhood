@@ -1,8 +1,14 @@
+// UI Logic
 pickNumber();
 function pickNumber(){
 
-  friendsNumber = prompt("Pick a number 1-50 friend: ");
-}
+  friendsNumber = prompt("Pick a number 0-10000 friend: ");
+
+  if(friendsNumber) >= 0 && friendsNumber <=10000){
+
+  listNum();
+    
+
 
 function placeNumbers(){
   do
