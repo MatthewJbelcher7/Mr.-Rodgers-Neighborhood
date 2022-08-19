@@ -1,1 +1,1 @@
-prompt("Enter Type")
+var userInput = prompt("Pick a number 1-100 friend!")
