@@ -26,13 +26,19 @@ function pickNumber(){
 	}
 }
 
+function outNum(){
+    for(int i = 0; i < friendsNumber; i++) {
+      System.out.println(i);
+    }
+  }
 
-function listNum(){
-  do
-  {
-    document.write(friendsNumber);
-    friendsNumber++;
-  }while (friendsNumber <= 50);
+
+// function listNum(){
+//   do
+//   {
+//     document.write(friendsNumber);
+//     friendsNumber++;
+//   }while (friendsNumber <= 50);
   
-  return true;
-}
+//   return true;
+// }
