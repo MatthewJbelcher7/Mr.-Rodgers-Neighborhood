@@ -1,1 +1,5 @@
-var userInput = prompt("Pick a number 1-100 friend!")
+picknumber();
+function picknumber(){
+
+  friendsNumber
+}

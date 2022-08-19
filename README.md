@@ -36,18 +36,18 @@ Copyright (c) _8/19/2022_ _Matthew_Belcher_
 Descibe: beepBoop()
 
 Test: Requests input from a user.
-Code: prompt(Enter Type)
+Code: prompt(Enter Number)
 Expected Output:User should be prompted for input.
 
 Test:Stores input from user for use
-Code:var userInput = prompt("Enter Type")
+Code:var userInput = prompt("Enter Number")
 Expected Output:Data
 
 Test:Create a range of numbers ending with the user input.
 Code:
 Expected Output:
 
-Test:
+Test:Return a error if number is less than 50
 Code:
 Expected Output:
 
