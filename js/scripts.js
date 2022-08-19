@@ -9,7 +9,7 @@ function pickNumber(){
 
   listNum();
 
-  }else if (friendsnumber < 1){
+  }else if (friendsNumber < 1){
     alert("That number is to low friend... lets try to be more managable");
     friendsNumber = 0;
     pickNumber();
@@ -26,12 +26,13 @@ function pickNumber(){
 	}
 }
 
-function placeNumbers(){
+
+function listNum(){
   do
   {
     document.write(friendsNumber);
-    friendsnumber++;
-  }while (friendsNumber >= 50);
+    friendsNumber++;
+  }while (friendsNumber <= 50);
   
   return true;
 }
