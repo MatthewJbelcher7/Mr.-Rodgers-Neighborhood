@@ -2,7 +2,7 @@
 
 #### By _Matthew_Belcher_
 
-#### _A Beginning HTML for all of my projects_
+#### __
 
 ## Technologies Used
 
@@ -14,13 +14,10 @@
 
 ## Description
 
-_This is demonstration of what we have learned in week on and a location to call back to for futute and past projects_
+_This will ask a user to give a number and then return a list of numbers starting at 0 and then count to the number given replacing certain numbers with beeps and _
 
 ## Setup/Installation Requirements
 
-* _Clone this repository to your desktop_
-* _Open Matthew.Belcher.html in your browser_
-* _Navigate using buttons or back arrows in browser_
 
 ## Known Bugs
 * 

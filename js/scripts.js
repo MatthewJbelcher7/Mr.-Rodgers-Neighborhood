@@ -32,17 +32,3 @@ function listNum(friendsNumber){
       document.write(i);
   }
   }
-
-
-
-
-
-// function listNum(){
-//   do
-//   {
-//     document.write(friendsNumber);
-//     friendsNumber++;
-//   }while (friendsNumber <= 50);
-  
-//   return true;
-// }
