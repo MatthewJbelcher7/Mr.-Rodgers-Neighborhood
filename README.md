@@ -36,7 +36,7 @@ Copyright (c) _8/19/2022_ _Matthew_Belcher_
 Descibe: beepBoop()
 
 Test: Requests input from a user.
-Code: prompt(Enter Number)
+Code: friendsNumber = prompt("Pick a number 1-50 friend: 
 Expected Output:User should be prompted for input.
 
 Test:Stores input from user for use
