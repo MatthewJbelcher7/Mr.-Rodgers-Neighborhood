@@ -26,11 +26,13 @@ function pickNumber(){
 	}
 }
 
-function outNum(){
-    for(int i = 0; i < friendsNumber; i++) {
-      System.out.println(i);
-    }
+function listNum(){
+
+  for (int i = 1; i <= friendsNumber; i++) {
+    System.out.println(i);
   }
+}
+
 
 
 // function listNum(){
